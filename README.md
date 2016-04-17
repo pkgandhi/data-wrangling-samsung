@@ -1,2 +1,5 @@
-# data-wrangling-samsung
-Data Wrangling: Human Activity Recognition
+# Data Wrangling: Human Activity Recognition
+---
+
+Samsung Galaxy S Smartphone Dataset
+***
