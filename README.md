@@ -13,4 +13,5 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 *****
 
 **UCI_HAR.pdf** --> **_Reproducible-Report_** explains the munging part stepwise and in detail.
+
 **run_analysis.r** --> **_R Code_** shows the basic R code!
